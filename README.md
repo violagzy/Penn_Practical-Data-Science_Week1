@@ -1,6 +1,6 @@
 # Practical-Data-Science_W1
 
-__MSSP 607__
+_MSSP 607_
 __Prof Elijah Mayfield__
 
 - Friday, October 18 PSYL C41
