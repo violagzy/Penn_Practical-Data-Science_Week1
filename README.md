@@ -1,7 +1,8 @@
 # Practical-Data-Science_W1
 
-_MSSP 607_
-__Prof Elijah Mayfield__
+__MSSP 607 Fall 2019__
+
+_Prof Elijah Mayfield_
 
 - Friday, October 18 PSYL C41
   - Presentation: History of Computing Part 1 (1830s-1960s)
